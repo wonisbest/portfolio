@@ -16,10 +16,10 @@ let render_projects = (slug) => {
             title: 'Sword Rush',
             demo: 'https://youtu.be/MkZNuaj4qeY',
             technologies: ['Unreal Engine 5'],
-            description: "Unreal Engine의 C++ Replication System을 깊이있게 학습 </p> 모든 액션이 실시간으로 동기화되는 1vs1 온라인 격투 게임을 구현"
+            description: "asdf"
             categories: ['featured', 'unreal']
         },
-        {
+        /*{
             image: 'assets/images/mobile-landscape.jpg',
             link: 'https://github.com/wonisbest/Mine',
             title: 'MINE',
@@ -54,7 +54,7 @@ let render_projects = (slug) => {
             technologies: ['Unity'],
             description: "Ever wondered how many times a URL has been shared on popular social networks?",
             categories: ['featured', 'unity']
-        },
+        },*/
         {
             image: 'assets/images/social-share-count.jpeg',
             link: 'https://github.com/abhn/Social-Share-Counts',
