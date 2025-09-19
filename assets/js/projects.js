@@ -52,7 +52,7 @@ let render_projects = (slug) => {
             title: '성을 지켜라',
             demo: 'https://youtu.be/V5_1_PTiGNo',
             technologies: ['Unity', 'C#'],
-            description: "대학 축제 부스 운영을 목표로 개발한 2인용 VR 디펜스 게임",
+            description: "대학 축제 부스 운영을 목표로 개발한 2인용 VR 디펜스 게임 </p>",
             categories: ['featured', 'unity', 'c#']
         },
     ]
