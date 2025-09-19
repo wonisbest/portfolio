@@ -14,7 +14,7 @@ let render_projects = (slug) => {
             image: 'assets/images/mentors.jpg',
             link: 'https://github.com/wonisbest/SwordRush',
             title: 'Sword Rush',
-            demo: 'https://mporter.co',
+            demo: 'https://youtu.be/MkZNuaj4qeY',
             technologies: ['Flask', 'Unreal', 'C++'],
             description: "Test Test </p>",
             categories: ['featured', 'unreal']
