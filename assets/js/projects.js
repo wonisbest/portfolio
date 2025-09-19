@@ -16,7 +16,7 @@ let render_projects = (slug) => {
             title: 'Sword Rush',
             demo: 'https://mporter.co',
             technologies: ['Flask', 'Celery', 'Python'],
-            description: "Flask web application for easy reporting updates to one's mentor. Multi-user support, easy to deploy and use.",
+            description: "Test Test",
             categories: ['featured', 'webdev']
         },
         {
