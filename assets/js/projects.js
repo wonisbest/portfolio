@@ -20,11 +20,11 @@ let render_projects = (slug) => {
             categories: ['featured', 'unreal']
         },
         {
-            image: 'assets/images/mobile-landscape.jpg',
+            image: 'assets/images/profile.jpg',
             link: 'https://github.com/abhn/Wall-E',
             title: 'Wall-E',
             demo: 'http://wall-e-jekyll.github.io/',
-            technologies: ['Semantic UI', 'Jekyll'],
+            technologies: ['Semantic UI'],
             description: "A modern Jekyll theme with grid frontpage, beautiful typography, mobile responsive, made with Semantic UI.",
             categories: ['featured', 'webdev']
         },
@@ -33,7 +33,7 @@ let render_projects = (slug) => {
             link: 'https://github.com/abhn/Marvel',
             title: 'Marvel',
             demo: false,
-            technologies: ['Android', 'OpenCV'],
+            technologies: ['Android'],
             description: "Attendance marking tool that uses face recognition for marking attendance and firebase for tracking and analytics.",
             categories: ['featured', 'native']
         },
@@ -42,7 +42,7 @@ let render_projects = (slug) => {
             link: 'https://github.com/abhn/mpw',
             title: 'Master Password',
             demo: 'https://www.nagekar.com/mpw',
-            technologies: ['Semantic UI', 'CSS3'],
+            technologies: ['Semantic UI'],
             description: "Master Password is an ingenious password solution that makes your passwords truly impossible to lose.",
             categories: ['featured', 'security']
         },
