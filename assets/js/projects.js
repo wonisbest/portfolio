@@ -19,7 +19,7 @@ let render_projects = (slug) => {
             description: "asdf",
             categories: ['featured', 'unreal']
         },
-        /*{
+        {
             image: 'assets/images/mobile-landscape.jpg',
             link: 'https://github.com/wonisbest/Mine',
             title: 'MINE',
@@ -54,7 +54,7 @@ let render_projects = (slug) => {
             technologies: ['Unity'],
             description: "Ever wondered how many times a URL has been shared on popular social networks?",
             categories: ['featured', 'unity']
-        },*/
+        },
         {
             image: 'assets/images/social-share-count.jpeg',
             link: 'https://github.com/abhn/Social-Share-Counts',
