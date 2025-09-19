@@ -15,7 +15,7 @@ let render_projects = (slug) => {
             link: 'https://github.com/wonisbest/SwordRush',
             title: 'Sword Rush',
             demo: 'https://mporter.co',
-            technologies: ['Flask', 'Celery', 'Python'],
+            technologies: ['Flask', 'Unreal', 'C++'],
             description: "Test Test </p>",
             categories: ['featured', 'unreal']
         },
