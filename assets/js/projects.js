@@ -137,15 +137,6 @@ let render_projects = (slug) => {
             categories: ['diy', 'security']
         },
         {
-            image: 'assets/images/pi-cloud.jpg',
-            link: 'https://www.nagekar.com/2016/01/how-to-private-local-cloud-using-raspberrypi.html',
-            title: 'Local Cloud - Raspberry Pi',
-            demo: false,
-            technologies: ['FTP', 'DIY'],
-            description: "Host a local cloud server with a Raspberry Pi and a spare hard disk. Access data instantaneously on any device on the network.",
-            categories: ['diy']
-        },
-        {
             image: 'assets/images/koalamate.png',
             link: 'https://github.com/abhn/koalamate',
             title: 'Koalamate',
