@@ -11,7 +11,7 @@ let render_projects = (slug) => {
 
     let projects_obj = [
         {
-            image: 'assets/images/mentors.jpg',
+            image: 'assets/images/SwordRush.jpg',
             link: 'https://github.com/wonisbest/SwordRush',
             title: 'Sword Rush',
             demo: 'https://youtu.be/MkZNuaj4qeY',
@@ -20,7 +20,7 @@ let render_projects = (slug) => {
             categories: ['featured', 'unreal', 'c++']
         },
         {
-            image: 'assets/images/profile.jpg',
+            image: 'assets/images/MINE.jpg',
             link: 'https://github.com/wonisbest/Mine',
             title: 'MINE',
             demo: 'https://youtu.be/Vht2Q5bisBM',
@@ -29,7 +29,7 @@ let render_projects = (slug) => {
             categories: ['featured', 'unreal', 'c++']
         },
         {
-            image: 'assets/images/collage.jpg',
+            image: 'assets/images/swimming.jpg',
             link: 'https://github.com/wonisbest/SeaOtterSwimming',
             title: '해엄쳐~!',
             demo: 'https://youtu.be/xlyc4WjxkJQ',
@@ -38,7 +38,7 @@ let render_projects = (slug) => {
             categories: ['featured', 'unity', 'c#']
         },
         {
-            image: 'assets/images/mpw.jpg',
+            image: 'assets/images/BeastTamer.jpg',
             link: 'https://github.com/wonisbest/BeastTamer',
             title: 'Beast Tamer',
             demo: 'https://youtu.be/GahuWNsCN0o',
@@ -47,7 +47,7 @@ let render_projects = (slug) => {
             categories: ['featured', 'unity', 'c#']
         },
         {
-            image: 'assets/images/mpw.jpg',
+            image: 'assets/images/Deffense.jpg',
             link: 'https://github.com/wonisbest/SiegeDepence/tree/main',
             title: '성을 지켜라',
             demo: 'https://youtu.be/V5_1_PTiGNo',
