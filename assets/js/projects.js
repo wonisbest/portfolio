@@ -16,7 +16,7 @@ let render_projects = (slug) => {
             title: 'Sword Rush',
             demo: 'https://youtu.be/MkZNuaj4qeY',
             technologies: ['Unreal Engine 5'],
-            description: "asdf"
+            description: "asdf",
             categories: ['featured', 'unreal']
         },
         /*{
