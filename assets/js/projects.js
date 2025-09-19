@@ -16,8 +16,8 @@ let render_projects = (slug) => {
             title: 'Sword Rush',
             demo: 'https://mporter.co',
             technologies: ['Flask', 'Celery', 'Python'],
-            description: "Test Test",
-            categories: ['featured', 'webdev']
+            description: "Test Test </p>",
+            categories: ['featured', 'unreal']
         },
         {
             image: 'assets/images/mobile-landscape.jpg',
