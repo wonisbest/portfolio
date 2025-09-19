@@ -16,7 +16,7 @@ let render_projects = (slug) => {
             title: 'Sword Rush',
             demo: 'https://youtu.be/MkZNuaj4qeY',
             technologies: ['Unreal Engine 5', 'C++'],
-            description: "Test Test </p>",
+            description: "온라인 멀티플레이 1대1 3D TPS 격투게임 </p>",
             categories: ['featured', 'unreal', 'c++']
         },
         {
@@ -25,7 +25,7 @@ let render_projects = (slug) => {
             title: 'MINE',
             demo: 'https://youtu.be/Vht2Q5bisBM',
             technologies: ['Unreal Engine 5', 'C++'],
-            description: "안녕하세요 </p>",
+            description: "3D 퍼즐형 공포게임 </p>",
             categories: ['featured', 'unreal', 'c++']
         },
         {
