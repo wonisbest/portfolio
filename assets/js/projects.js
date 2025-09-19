@@ -15,18 +15,18 @@ let render_projects = (slug) => {
             link: 'https://github.com/wonisbest/SwordRush',
             title: 'Sword Rush',
             demo: 'https://youtu.be/MkZNuaj4qeY',
-            technologies: ['Flask', 'Unreal', 'C++'],
+            technologies: ['Unreal Engine 5', 'C++'],
             description: "Test Test </p>",
-            categories: ['featured', 'unreal']
+            categories: ['featured', 'unreal', 'c++']
         },
         {
             image: 'assets/images/profile.jpg',
-            link: 'https://github.com/abhn/Wall-E',
-            title: 'Wall-E',
-            demo: 'http://wall-e-jekyll.github.io/',
-            technologies: ['Semantic UI'],
-            description: "A modern Jekyll theme with grid frontpage, beautiful typography, mobile responsive, made with Semantic UI.",
-            categories: ['featured', 'webdev']
+            link: 'https://github.com/wonisbest/Mine',
+            title: 'MINE',
+            demo: 'https://youtu.be/Vht2Q5bisBM',
+            technologies: ['Unreal Engine 5', 'C++'],
+            description: "안녕하세요 </p>",
+            categories: ['featured', 'unreal', 'c++']
         },
         {
             image: 'assets/images/collage.jpg',
