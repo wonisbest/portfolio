@@ -55,6 +55,15 @@ let render_projects = (slug) => {
             description: "Ever wondered how many times a URL has been shared on popular social networks?",
             categories: ['featured', 'unity', 'c#']
         },
+        {
+            image: 'assets/images/social-share-count.jpeg',
+            link: 'https://github.com/abhn/Social-Share-Counts',
+            title: 'Social Share Count',
+            demo: false,
+            technologies: ['Python'],
+            description: "Ever wondered how many times a URL has been shared on popular social networks?",
+            categories: ['native']
+        },
     ]
 
     let projects = [];
