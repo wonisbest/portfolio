@@ -48,7 +48,7 @@ let render_projects = (slug) => {
         },
         {
             image: 'assets/images/social-share-count.jpeg',
-            link: 'https://github.com/wonisbest/SiegeDepence/tree/main',
+            link: 'https://github.com/wonisbest/SiegeDepence',
             title: '성을 지켜라',
             demo: 'https://youtu.be/V5_1_PTiGNo',
             technologies: ['Unity', 'C#'],
