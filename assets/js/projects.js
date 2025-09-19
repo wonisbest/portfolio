@@ -15,45 +15,45 @@ let render_projects = (slug) => {
             link: 'https://github.com/wonisbest/SwordRush',
             title: 'Sword Rush',
             demo: 'https://youtu.be/MkZNuaj4qeY',
-            technologies: ['Unreal Engine 5', 'C++'],
+            technologies: ['Unreal Engine 5'],
             description: "Unreal Engine의 C++ Replication System을 깊이있게 학습 </p> 모든 액션이 실시간으로 동기화되는 1vs1 온라인 격투 게임을 구현"
-            categories: ['featured', 'unreal', 'c++']
+            categories: ['featured', 'unreal']
         },
         {
             image: 'assets/images/mobile-landscape.jpg',
             link: 'https://github.com/wonisbest/Mine',
             title: 'MINE',
             demo: 'https://youtu.be/Vht2Q5bisBM',
-            technologies: ['Unreal Engine 5', 'C++'],
+            technologies: ['Unreal Engine 5'],
             description: "C++ 역량 심화를 목표로 Unreal Engine을 독학하여 개발한 3D 1인칭 공포게임",
-            categories: ['featured', 'unreal','c++']
+            categories: ['featured', 'unreal']
         },
         {
             image: 'assets/images/collage.jpg',
             link: 'https://github.com/wonisbest/SeaOtterSwimming',
             title: '해엄쳐~!',
             demo: 'https://youtu.be/xlyc4WjxkJQ',
-            technologies: ['Unity', 'C#'],
+            technologies: ['Unity'],
             description: "3일 이라는 짧은 기간 동안 5명의 팀원과 협업하여 완성한 2D 캐주얼 런게임",
-            categories: ['featured', 'unity', 'c#']
+            categories: ['featured', 'unity']
         },
         {
             image: 'assets/images/mpw.jpg',
             link: 'https://github.com/wonisbest/BeastTamer',
             title: 'Beast Tamer',
             demo: 'https://youtu.be/GahuWNsCN0o',
-            technologies: ['Unity', 'C#'],
+            technologies: ['Unity'],
             description: "1인 개발로 완성하여 교내 게임 경진대회에서 우수상을 수상한 3D RPG 프로젝트",
-            categories: ['featured', 'unity', 'c#']
+            categories: ['featured', 'unity']
         },
         {
             image: 'assets/images/social-share-count.jpeg',
             link: 'https://github.com/wonisbest/SiegeDepence',
             title: '성을 지켜라',
             demo: 'https://youtu.be/V5_1_PTiGNo',
-            technologies: ['Unity', 'C#'],
+            technologies: ['Unity'],
             description: "Ever wondered how many times a URL has been shared on popular social networks?",
-            categories: ['featured', 'unity', 'c#']
+            categories: ['featured', 'unity']
         },
         {
             image: 'assets/images/social-share-count.jpeg',
