@@ -30,21 +30,30 @@ let render_projects = (slug) => {
         },
         {
             image: 'assets/images/collage.jpg',
-            link: 'https://github.com/abhn/Marvel',
-            title: 'Marvel',
-            demo: false,
-            technologies: ['Android'],
-            description: "Attendance marking tool that uses face recognition for marking attendance and firebase for tracking and analytics.",
-            categories: ['featured', 'native']
+            link: 'https://github.com/wonisbest/SeaOtterSwimming',
+            title: '해엄쳐~!',
+            demo: 'https://youtu.be/xlyc4WjxkJQ',
+            technologies: ['Unity', 'C#'],
+            description: "3일 이라는 짧은 기간 동안 5명의 팀원과 협업하여 완성한 2D 캐주얼 런게임 </p>",
+            categories: ['featured', 'unity', 'c#']
         },
         {
             image: 'assets/images/mpw.jpg',
-            link: 'https://github.com/abhn/mpw',
-            title: 'Master Password',
-            demo: 'https://www.nagekar.com/mpw',
-            technologies: ['Semantic UI'],
-            description: "Master Password is an ingenious password solution that makes your passwords truly impossible to lose.",
-            categories: ['featured', 'security']
+            link: 'https://github.com/wonisbest/BeastTamer',
+            title: 'Beast Tamer',
+            demo: 'https://youtu.be/GahuWNsCN0o',
+            technologies: ['Unity', 'C#'],
+            description: "1인 개발로 완성하여 교내 게임 경진대회에서 우수상을 수상한 3D RPG 프로젝트 </p>",
+            categories: ['featured', 'unity', 'c#']
+        },
+        {
+            image: 'assets/images/mpw.jpg',
+            link: 'https://github.com/wonisbest/SiegeDepence/tree/main',
+            title: '성을 지켜라',
+            demo: 'https://youtu.be/V5_1_PTiGNo',
+            technologies: ['Unity', 'C#'],
+            description: "대학 축제 부스 운영을 목표로 개발한 2인용 VR 디펜스 게임",
+            categories: ['featured', 'unity', 'c#']
         },
     ]
 
