@@ -43,7 +43,7 @@ let render_projects = (slug) => {
             title: 'Beast Tamer',
             demo: 'https://youtu.be/GahuWNsCN0o',
             technologies: ['Unity', 'C#'],
-            description: "1인 개발로 완성하여 교내 게임 경진대회에서 우수상을 수상한 3D RPG 프로젝트 </p> ",
+            description: "1인 개발로 완성하여 교내 게임 경진대회에서 우수상을 수상한 3D RPG 프로젝트 </p> 주요 역할 </p> 1. Data 관리 </p> 2. 전투 시스템 </p> 3. UI </p>",
             categories: ['featured', 'unity', 'c#']
         },
         {
