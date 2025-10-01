@@ -61,7 +61,7 @@ let render_projects = (slug) => {
             title: 'Gravitation Master',
             demo: 'https://youtu.be/Bn-F48dc7Xc',
             technologies: ['C#'],
-            description: "C#을 사용한 WPF 웹 게임 </p> 주요 역할 </p> 1. Chapter 2 외계인과의 조우 파트 개발 </p> 2. 세부 기획 - 챕터의 컨셉, Player의 선택에 따른 엔딩 설정",
+            description: "C#을 사용한 WPF 웹 게임 </p> 주요 역할 </p> 1. Chapter 2 외계인과의 조우 파트 개발 </p> 2. 세부 기획 - 챕터의 컨셉, Player의 선택에 따른 엔딩 설정 </p>",
             categories: ['css']
         },
         {
