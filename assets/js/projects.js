@@ -55,6 +55,24 @@ let render_projects = (slug) => {
             description: "대학 축제 부스 운영을 목표로 개발한 2인용 VR 디펜스 게임 </p> 주요 역할 </p> 1. Network </p> 2. 전투 시스템 </p> 3. UI </p> ",
             categories: ['featured', 'unity', 'css']
         },
+        {
+            image: 'assets/images/gravitaitonimage.png',
+            link: 'https://github.com/wonisbest/GravitationMaster',
+            title: 'Gravitation Master',
+            demo: 'https://youtu.be/Bn-F48dc7Xc',
+            technologies: ['C#'],
+            description: "C#을 사용한 WPF 웹 게임 </p> 주요 역할 </p> 1. Chapter 2 외계인과의 조우 파트 개발 </p> 2. 세부 기획 - 챕터의 컨셉, Player의 선택에 따른 엔딩 설정",
+            categories: ['css']
+        },
+        {
+            image: 'assets/images/RamdomHeroImage.png',
+            link: 'https://github.com/wonisbest/RamdomHero',
+            title: '랜덤 용사',
+            demo: 'https://youtu.be/bznpXRKkbEU',
+            technologies: ['Unity', 'C#'],
+            description: "횡스크롤 로그라이트</p> 3개의 직업 중 하나가 랜덤으로 선택되어 플레이 </p> 주요 역할 </p> 1. 기획 </p> 2. 전투 시스템 </p> 3. UI </p> ",
+            categories: ['unity', 'css']
+        },
     ]
 
     let projects = [];
